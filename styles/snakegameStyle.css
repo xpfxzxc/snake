@@ -1,0 +1,28 @@
+#area {
+	margin: 0px auto;
+}
+#area td {
+	width: 16px;
+	height: 16px;
+}
+.score {
+	text-align: right;
+}
+.normal_color {
+	background-color: #fff;
+}
+.snake_color {
+	background-color: #d49a6a;
+}
+.food_color {
+	background-color: #804515;
+}
+.msg {
+	position: absolute;
+	top: 30%;
+	left: 10%;
+	text-align: center;
+	font-size: 30px;
+	color: #552600;
+	user-select: none;
+}

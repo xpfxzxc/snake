@@ -1,0 +1,17 @@
+body {
+	font-family: Verdana, Arial, sans-serif;
+	width: 1020px;
+	font-size: 80%;
+	letter-spacing: 0.15em;
+	background-color: #fff1aa;
+	margin: 0 auto;
+}
+h1 {
+	color: #807215;
+}
+#box {
+	position: relative;
+	display: inline-block;
+	border: 1px solid #000;
+	padding: 10px;
+}
